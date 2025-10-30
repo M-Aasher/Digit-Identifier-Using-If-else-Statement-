@@ -14,13 +14,13 @@ To practice conditional decision-making using the if–else structure in C by ch
 
 ## Logic
 
-Read a single character from the user.
+• Read a single character from the user.
 
-Use an if condition to check if the character lies between '0' and '9'.
+• Use an if condition to check if the character lies between '0' and '9'.
 
-If true → print "Digit".
+• If true → print "Digit".
 
-Else → print "Not digit".
+• Else → print "Not digit".
 
 ## Example Input/Output
 1) Enter a character: 5  
@@ -31,8 +31,8 @@ Else → print "Not digit".
 
 ## Key Concepts Practiced
 
-Use of if–else statement
+• Use of if–else statement
 
-Character comparison
+• Character comparison
 
 Understanding of ASCII value range for digits
